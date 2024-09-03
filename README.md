@@ -1,5 +1,5 @@
+# 🌌 **Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection** 🌌
 
-# Polar lights optimizer: Algorithm and applications in image segmentation and feature selection
 ![License](https://img.shields.io/github/license/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 ![Code Size](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 ![Repo Size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
@@ -11,16 +11,18 @@
 ![Watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 ![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 
-
 <p align="center">
-  <img src="https://github.com/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection/blob/main/polar%20lights%20optimizer%20(PLO)%20image.jpeg" alt="PLO Poster" />
+  <img src="https://github.com/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection/blob/main/polar%20lights%20optimizer%20(PLO)%20image.jpeg" alt="PLO Poster" width="60%" />
+  <br>
+  <em>Polar Lights Optimizer in action</em>
 </p>
 
+## 🔍 **Overview**
 
-## Overview
-Polar Lights Optimization (PLO) is a metaheuristic algorithm inspired by the aurora phenomenon. The algorithm models the motion of high-energy particles influenced by Earth's magnetic field to balance local exploitation and global exploration. PLO incorporates gyration motion, aurora oval walk, and particle collision strategies, proving effective in solving complex optimization problems, including image segmentation and feature selection.
+**Polar Lights Optimization (PLO)** is a metaheuristic algorithm inspired by the mesmerizing aurora phenomenon. By simulating high-energy particles influenced by Earth's magnetic field, PLO achieves a balance between local exploitation and global exploration. This method is highly effective in complex optimization tasks such as image segmentation and feature selection.
 
-## Installation Instructions
+## ⚙️ **Installation Instructions**
+
 1. **Prerequisites:**
    - MATLAB (R2017b or later recommended)
 
@@ -30,22 +32,23 @@ Polar Lights Optimization (PLO) is a metaheuristic algorithm inspired by the aur
    cd PLO
    ```
 
-## Usage
-To run the PLO algorithm, use the following MATLAB function:
+## 🚀 **Usage**
+
+To run the PLO algorithm, use the MATLAB function:
 
 ```matlab
 [Best_pos, Bestscore, Convergence_curve] = PLO(N, MaxFEs, lb, ub, dim, fobj)
 ```
 
-### Parameters:
-- `N`: Number of particles in the swarm.
-- `MaxFEs`: Maximum number of function evaluations.
-- `lb`: Lower bound of the solution space.
-- `ub`: Upper bound of the solution space.
-- `dim`: Dimension of the solution space.
-- `fobj`: Objective function handle.
+### **Parameters:**
+- `N`: Number of particles in the swarm
+- `MaxFEs`: Maximum number of function evaluations
+- `lb`: Lower bound of the solution space
+- `ub`: Upper bound of the solution space
+- `dim`: Dimension of the solution space
+- `fobj`: Objective function handle
 
-### Example:
+### **Example:**
 ```matlab
 N = 30; % Number of particles
 MaxFEs = 10000; % Maximum function evaluations
@@ -57,37 +60,37 @@ fobj = @(x) sum(x.^2); % Objective function (e.g., sphere function)
 [Best_pos, Bestscore, Convergence_curve] = PLO(N, MaxFEs, lb, ub, dim, fobj);
 ```
 
-## Method
-### Description
-PLO is inspired by the aurora phenomenon, which involves the interaction of solar wind particles with Earth's magnetic field, creating a luminous display. The algorithm simulates this process using two main strategies:
-1. **Gyration Motion:** Models the spiraling motion of particles around magnetic field lines, focusing on local exploitation of the solution space.
-2. **Aurora Oval Walk:** Mimics the formation of auroral ovals, facilitating global exploration of the solution space.
+## 🧩 **Method**
 
-### Key Components
-1. **Initialization:** 
-   - Generate an initial population of particles within the bounds of the solution space.
-   - Evaluate the fitness of each particle.
+### **Description**
+Inspired by the aurora phenomenon, PLO models the interaction of solar wind particles with Earth's magnetic field. The algorithm utilizes:
+
+1. **Gyration Motion**: Simulates spiraling motion around magnetic field lines.
+2. **Aurora Oval Walk**: Mimics the formation of auroral ovals for global exploration.
+
+### **Key Components**
+
+1. **Initialization:**
+   - Create an initial population of particles within the bounds.
+   - Evaluate fitness.
 
 2. **Main Loop:**
-   - Update the velocity and position of each particle using gyration motion and aurora oval walk strategies.
-   - Apply a particle collision strategy to escape local optima.
-   - Update fitness and keep track of the best solution.
+   - Update velocities and positions using gyration and aurora oval strategies.
+   - Apply particle collision for escaping local optima.
+   - Update fitness and track the best solution.
 
 3. **Gyration Motion:**
-   - Simulates the centripetal force experienced by particles as they move along magnetic field lines.
-   - Accounts for atmospheric damping effects on particle motion.
+   - Models centripetal force around magnetic field lines.
 
 4. **Aurora Oval Walk:**
-   - Uses Levy flight to simulate the elliptical movement of particles around the auroral oval.
-   - Adjusts exploration based on geomagnetic activity and atmospheric conditions.
+   - Simulates elliptical movement with Levy flight.
 
 5. **Particle Collision:**
-   - Allows particles to randomly collide and change their trajectories, aiding in escaping local optima.
+   - Facilitates escape from local optima through random collisions.
 
-## Pseudocode
-Here’s a high-level pseudocode of the PLO algorithm:
+## 📝 **Pseudocode**
 
-```
+```plaintext
 Initialize population X with random positions within bounds [lb, ub]
 Evaluate fitness of each particle in X
 Sort particles based on fitness
@@ -117,30 +120,35 @@ While number of function evaluations (FEs) < MaxFEs
 Return Bestpos and Bestscore
 ```
 
+## 🤝 **Contributing**
 
-## Contributing
-Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute to the project.
+We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can help improve this project.
 
-## License
+## 📜 **License**
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## References
+## 📚 **References**
+
 - **PLO Source Code and Documentation:** [Aliasghar Heidari](http://www.aliasgharheidari.com/PLO.html)
 - **Main Paper:** Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Huiling Chen. "Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection," Neurocomputing - 2024.
 
-## Contact Information
-For inquiries or support, contact:
+## 📬 **Contact Information**
+
+For support or inquiries, reach out to:
 - Chong Yuan: [yc18338414794@163.com](mailto:yc18338414794@163.com)
 - Dong Zhao: [zd-hy@163.com](mailto:zd-hy@163.com)
 - Ali Asghar Heidari: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
 - Huiling Chen: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
 
-## Citation
-If you use this code in your research, please cite the following paper:
+## 📑 **Citation**
+
+If you use this code, please cite:
 - Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Huiling Chen. "Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection," Neurocomputing - 2024.
 
-## Comparison with Other Optimization Methods
-You can compare PLO with other recent optimization methods:
+## 🔍 **Comparison with Other Optimization Methods**
+
+Explore comparisons with other methods:
 - [PLO 2024](http://www.aliasgharheidari.com/PLO.html)
 - [FATA 2024](http://www.aliasgharheidari.com/FATA.html)
 - [ECO 2024](http://www.aliasgharheidari.com/ECO.html)
