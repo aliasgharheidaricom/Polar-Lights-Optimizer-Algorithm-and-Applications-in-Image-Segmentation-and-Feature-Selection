@@ -120,24 +120,19 @@ While number of function evaluations (FEs) < MaxFEs
 Return Bestpos and Bestscore
 ```
 
-## 🤝 **Contributing**
-
-We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can help improve this project.
-
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ## 📚 **References**
 
-- **PLO Source Code and Documentation:** [Aliasghar Heidari](http://www.aliasgharheidari.com/PLO.html)
+- **PLO Source Code and Documentation:** [Ali Asghar Heidari](http://www.aliasgharheidari.com/PLO.html)
 - **Main Paper:** Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Huiling Chen. "Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection," Neurocomputing - 2024.
 
 ## 📬 **Contact Information**
 
 For support or inquiries, reach out to:
 - Chong Yuan: [yc18338414794@163.com](mailto:yc18338414794@163.com)
-- Dong Zhao: [zd-hy@163.com](mailto:zd-hy@163.com)
 - Ali Asghar Heidari: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
 - Huiling Chen: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
 
@@ -148,15 +143,19 @@ If you use this code, please cite:
 
 ## 🔍 **Comparison with Other Optimization Methods**
 
-Explore comparisons with other methods:
-- [PLO 2024](http://www.aliasgharheidari.com/PLO.html)
-- [FATA 2024](http://www.aliasgharheidari.com/FATA.html)
-- [ECO 2024](http://www.aliasgharheidari.com/ECO.html)
-- [AO 2024](http://www.aliasgharheidari.com/AO.html)
-- [PO 2024](http://www.aliasgharheidari.com/PO.html)
-- [RIME 2023](http://www.aliasgharheidari.com/RIME.html)
-- [INFO 2022](http://www.aliasgharheidari.com/INFO.html)
-- [RUN 2021](http://www.aliasgharheidari.com/RUN.html)
-- [HGS 2021](http://www.aliasgharheidari.com/HGS.html)
-- [SMA 2020](http://www.aliasgharheidari.com/SMA.html)
-- [HHO 2019](http://www.aliasgharheidari.com/HHO.html)
+Delve into how the Polar Lights Optimizer (PLO) stacks up against other cutting-edge optimization techniques:
+
+- 🌟 [**PLO 2024**](http://www.aliasgharheidari.com/PLO.html): The latest advancements and applications.
+- 🚀 [**FATA 2024**](http://www.aliasgharheidari.com/FATA.html): A forward-looking approach to feature selection.
+- 🌐 [**ECO 2024**](http://www.aliasgharheidari.com/ECO.html): Exploring new horizons in optimization.
+- 🔍 [**AO 2024**](http://www.aliasgharheidari.com/AO.html): A novel optimization strategy for complex problems.
+- ✨ [**PO 2024**](http://www.aliasgharheidari.com/PO.html): Enhancing performance through innovative methods.
+- 🔬 [**RIME 2023**](http://www.aliasgharheidari.com/RIME.html): Insights into recent developments.
+- 📊 [**INFO 2022**](http://www.aliasgharheidari.com/INFO.html): Comparative analysis of optimization techniques.
+- 🛠️ [**RUN 2021**](http://www.aliasgharheidari.com/RUN.html): Practical solutions for optimization challenges.
+- 🔧 [**HGS 2021**](http://www.aliasgharheidari.com/HGS.html): High-performance strategies in optimization.
+- 🧩 [**SMA 2020**](http://www.aliasgharheidari.com/SMA.html): A comprehensive look at state-of-the-art methods.
+- 🌠 [**HHO 2019**](http://www.aliasgharheidari.com/HHO.html): Groundbreaking approaches to heuristic optimization.
+
+Explore these methods to see how PLO compares and stands out in the field of optimization!
+
