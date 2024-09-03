@@ -145,17 +145,17 @@ If you use this code, please cite:
 
 Delve into how the Polar Lights Optimizer (PLO) stacks up against other cutting-edge optimization techniques:
 
-- 🌟 [**PLO 2024**](http://www.aliasgharheidari.com/PLO.html): The latest advancements and applications.
-- 🚀 [**FATA 2024**](http://www.aliasgharheidari.com/FATA.html): A forward-looking approach to feature selection.
-- 🌐 [**ECO 2024**](http://www.aliasgharheidari.com/ECO.html): Exploring new horizons in optimization.
-- 🔍 [**AO 2024**](http://www.aliasgharheidari.com/AO.html): A novel optimization strategy for complex problems.
-- ✨ [**PO 2024**](http://www.aliasgharheidari.com/PO.html): Enhancing performance through innovative methods.
-- 🔬 [**RIME 2023**](http://www.aliasgharheidari.com/RIME.html): Insights into recent developments.
-- 📊 [**INFO 2022**](http://www.aliasgharheidari.com/INFO.html): Comparative analysis of optimization techniques.
-- 🛠️ [**RUN 2021**](http://www.aliasgharheidari.com/RUN.html): Practical solutions for optimization challenges.
-- 🔧 [**HGS 2021**](http://www.aliasgharheidari.com/HGS.html): High-performance strategies in optimization.
-- 🧩 [**SMA 2020**](http://www.aliasgharheidari.com/SMA.html): A comprehensive look at state-of-the-art methods.
-- 🌠 [**HHO 2019**](http://www.aliasgharheidari.com/HHO.html): Groundbreaking approaches to heuristic optimization.
+- 🌟 [**PLO 2024**](http://www.aliasgharheidari.com/PLO.html) 
+- 🚀 [**FATA 2024**](http://www.aliasgharheidari.com/FATA.html)
+- 🌐 [**ECO 2024**](http://www.aliasgharheidari.com/ECO.html)
+- 🔍 [**AO 2024**](http://www.aliasgharheidari.com/AO.html)
+- ✨ [**PO 2024**](http://www.aliasgharheidari.com/PO.html)
+- 🔬 [**RIME 2023**](http://www.aliasgharheidari.com/RIME.html)
+- 📊 [**INFO 2022**](http://www.aliasgharheidari.com/INFO.html)
+- 🛠️ [**RUN 2021**](http://www.aliasgharheidari.com/RUN.html)
+- 🔧 [**HGS 2021**](http://www.aliasgharheidari.com/HGS.html)
+- 🧩 [**SMA 2020**](http://www.aliasgharheidari.com/SMA.html)
+- 🌠 [**HHO 2019**](http://www.aliasgharheidari.com/HHO.html)
 
 Explore these methods to see how PLO compares and stands out in the field of optimization!
 
