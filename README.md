@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 2.5em; color: #2c3e50;">
-  🌟 <strong>Polar Lights Optimizer (PLO): Revolutionizing Image Segmentation and Feature Selection</strong> 🌟
+   <strong>Polar Lights Optimizer (PLO): Algorithm and Applications in Image Segmentation and Feature Selection</strong> 
 </h1>
 <h2 align="center" style="font-size: 1.5em; color: #34495e;">
   📰 <em>Published in Neurocomputing (Elsevier), 2024</em> 📰
