@@ -1,4 +1,5 @@
 # Polar lights optimizer: Algorithm and applications in image segmentation and feature selection
+![PLO Poster](polar lights optimizer (PLO) image.jpeg)  <!-- Replace with your actual image path -->
 
 ## Overview
 Polar Lights Optimization (PLO) is a metaheuristic algorithm inspired by the aurora phenomenon. The algorithm models the motion of high-energy particles influenced by Earth's magnetic field to balance local exploitation and global exploration. PLO incorporates gyration motion, aurora oval walk, and particle collision strategies, proving effective in solving complex optimization problems, including image segmentation and feature selection.
@@ -100,10 +101,6 @@ While number of function evaluations (FEs) < MaxFEs
 Return Bestpos and Bestscore
 ```
 
-## Poster
-You can upload and display a poster related to the PLO algorithm here. Please make sure to include a clear and informative image of your work.
-
-![PLO Poster](path/to/your/poster.png)  <!-- Replace with your actual image path -->
 
 ## Contributing
 Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute to the project.
