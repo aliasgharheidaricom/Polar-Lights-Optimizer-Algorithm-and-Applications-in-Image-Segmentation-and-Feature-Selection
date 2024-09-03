@@ -1,4 +1,4 @@
-# 🌌 **Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection** 🌌
+#  **Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection published in Neurocomputing Elsevier 2024** 
 
 ![License](https://img.shields.io/github/license/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 ![Code Size](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
