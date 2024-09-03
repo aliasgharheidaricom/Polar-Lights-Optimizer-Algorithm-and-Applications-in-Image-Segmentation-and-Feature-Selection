@@ -1,4 +1,9 @@
-#  **Polar Lights Optimizer: Algorithm and Applications in Image Segmentation and Feature Selection published in Neurocomputing Elsevier 2024** 
+<h1 align="center" style="font-size: 2.5em; color: #2c3e50;">
+  🌟 <strong>Polar Lights Optimizer (PLO): Revolutionizing Image Segmentation and Feature Selection</strong> 🌟
+</h1>
+<h2 align="center" style="font-size: 1.5em; color: #34495e;">
+  📰 <em>Published in Neurocomputing (Elsevier), 2024</em> 📰
+</h2>
 
 ![License](https://img.shields.io/github/license/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
 ![Code Size](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Polar-Lights-Optimizer-Algorithm-and-Applications-in-Image-Segmentation-and-Feature-Selection)
